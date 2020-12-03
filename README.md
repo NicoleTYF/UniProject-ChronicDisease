@@ -1,4 +1,4 @@
-# UniProject-ChronicDisease
+# Chronic Disease Prevention web app
 
 &emsp; **My role in this project:** <br>
 &emsp; * Gather client requirements, discuss requirements with developers <br>

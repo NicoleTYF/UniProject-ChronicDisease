@@ -1,12 +1,12 @@
 # UniProject-ChronicDisease
 
 &emsp; **My role in this project:** <br>
-&emsp; Gather client requirements, discuss requirements with developers <br>
-&emsp; Modelling system flow, interraction and database design for the solution <br>
-&emsp; Conduct UX research for user interface <br>
-&emsp; Annotate prototypes to document iteration processes based on client and end-user feedback <br>
-&emsp; Document Weekly Meeting Logs of team and client communication<br>
-&emsp; Write and organise documentation contents except Testing section <br>
+&emsp; * Gather client requirements, discuss requirements with developers <br>
+&emsp; * Modelling system flow, interraction and database design for the solution <br>
+&emsp; * Conduct UX research for user interface <br>
+&emsp; * Annotate prototypes to document iteration processes based on client and end-user feedback <br>
+&emsp; * Document Weekly Meeting Logs of team and client communication<br>
+&emsp; * Write and organise documentation contents except Testing section <br>
 
 <br>
 
